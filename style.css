@@ -43,7 +43,7 @@ main {
 
 section {
   margin-bottom: 2rem;
-  background-color: var(--pastellgelb);
+  background-color: var(--pastellgrün);
   padding: 1.5rem;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
@@ -56,7 +56,7 @@ h2 {
 
 .btn {
   display: inline-block;
-  background-color: var(--pastellrosa);
+  background-color: var(--lavendel);
   color: white;
   padding: 0.8rem 1.5rem;
   border-radius: 8px;
