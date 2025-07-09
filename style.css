@@ -1,7 +1,7 @@
 :root {
   --lavendel: #b497bd;
   --pastellgelb: #fff3cd;
-  --lavendel: #d2f4dc;
+  --pastellrosa: #d2f4dc;
   --pastellrosa: #fce4ec;
   --schwarz: #222;
 }
@@ -16,19 +16,19 @@ body {
 
 header {
   text-align: center;
-  background-color: var(--pastellgelb);
+  background-color: var(--lila);
   padding: 2rem 1rem;
 }
 
 .logo {
-  width: 1000px;
+  width: 500px;
   margin-bottom: 1rem;
 }
 
 header h1 {
   font-family: 'Great Vibes', cursive;
   font-size: 3rem;
-  color: var(--lavendel);
+  color: var(--lila);
   margin: 0.2rem 0;
 }
 
